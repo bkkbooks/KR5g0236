@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0236/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0236/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太清道林攝生論
+  date: '2015-08-29 03:00:35.352307'
+  source:
+    repository: kanripo
+    path: KR5g0236
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0236_000-ZTDZ.yaml, hash: 'sha256:187f5f576cf9326297531c6a1d360da7d5d020311f7fce237d4b6c1e23142e67'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0236_000-ZTDZ.markers.yaml, hash: 'sha256:606c148c590bbb609336fe2b87f591239f27a79468972f488eca3778809f7668'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0236_SJB_000-340467b
+    span:
+    - body
+    - 0
+    - 4776
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:3cabee534529f2d98cb9d683023beaa4fdff46e35eaca86127225d0119da14e0
